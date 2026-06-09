@@ -1,0 +1,7 @@
+CustomerID,Name,Age,Gender,City,Income
+101,Ali,25.0,M,Lahore,50000.0
+102,Sara,,F,Karachi,70000.0
+103,Zain,82.0,m,lahore,-20000.0
+104,Amna,35.0,F,Islamabad,120000.0
+101,Ali,25.0,M,Lahore,50000.0
+105,Bilal,-5.0,M,LAHORE,
