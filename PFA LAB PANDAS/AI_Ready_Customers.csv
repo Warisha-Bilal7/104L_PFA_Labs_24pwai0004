@@ -1,0 +1,4 @@
+CustomerID,Age,Income,Quantity,Amount,SpendingScore,PurchaseFrequency,MembershipDuration,Gender_M,City_Karachi,City_Lahore,AgeGroup_Young,IncomeCategory_Medium,CustomerValue_Low Value,CustomerValue_Medium Value,MembershipType_None,MembershipType_Silver
+101,25.0,0.0,1.0,1.0,0.5,1,886.0,True,False,True,True,True,False,True,False,False
+102,25.0,0.2857142857142857,2.0,1.0,1.0,1,1090.0,False,True,False,True,True,False,False,False,True
+104,35.0,1.0,,0.0,0.0,0,0.0,False,False,False,False,False,True,False,True,False
